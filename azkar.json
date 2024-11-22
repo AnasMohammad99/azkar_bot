@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "arabic": "أَسْتَغْفِرُ اللَّهَ",
+        "transliteration": "Astaghfirullah"
+    },
+    {
+        "id": 2,
+        "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+        "transliteration": "La hawla wa la quwwata illa billah"
+    },
+    {
+        "id": 3,
+        "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+        "transliteration": "SubhanAllah wa bihamdihi"
+    },
+    {
+        "id": 4,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+        "transliteration": "Allahumma aj'alni min at-tawwabeen wa aj'alni min al-mutatahireen"
+    },
+    {
+        "id": 5,
+        "arabic": "يَا رَبِّ لَكَ الْحَمْدُ كَمَا يَنْبَغِي لِجَلَالِ وَجْهِكَ وَعَظِيمِ سُلْطَانِكَ",
+        "transliteration": "Ya Rabbi laka al-hamdu kama yanbaghi li jalali wajhika wa 'azheemi sultanik"
+    },
+    {
+        "id": 6,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ",
+        "transliteration": "Allahumma inni as'aluka al-'afwa wa al-'afiyah"
+    },
+    {
+        "id": 7,
+        "arabic": "رَضِيتُ بِاللَّهِ رَبًّا وَبِالإِسْلامِ دِينًا وَبِمُحَمَّدٍ نَبِيًّا",
+        "transliteration": "Radheetu billahi rabban wa bil-islami deenan wa bi-muhammadin nabiyya"
+    },
+    {
+        "id": 8,
+        "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ",
+        "transliteration": "Allahumma anta rabbi la ilaha illa anta"
+    },
+    {
+        "id": 9,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ",
+        "transliteration": "Allahumma inni a'udhu bika minal-hammi wal-hazan"
+    },
+    {
+        "id": 10,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رِضَاكَ وَالْجَنَّةَ",
+        "transliteration": "Allahumma inni as'aluka ridhaka wal-jannah"
+    },
+    {
+        "id": 11,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+        "transliteration": "Allahumma inni as'aluka min fadlik"
+    },
+    {
+        "id": 12,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي",
+        "transliteration": "Allahumma inni a'udhu bika min sharri nafsi"
+    },
+    {
+        "id": 13,
+        "arabic": "يَا مُقَلِّبَ الْقُلُوبِ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+        "transliteration": "Ya muqallib al-quloob thabbit qalbi 'ala deenik"
+    },
+    {
+        "id": 14,
+        "arabic": "اللَّهُمَّ رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+        "transliteration": "Allahumma rabbana atina fid-dunya hasanatan wa fil-akhirati hasanatan waqina 'adhab an-nar"
+    },
+    {
+        "id": 15,
+        "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
+        "transliteration": "Allahumma a'inni 'ala dhikrika wa shukrika wa husni 'ibadatika"
+    },
+    {
+        "id": 16,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَوَكِّلِينَ عَلَيْكَ",
+        "transliteration": "Allahumma aj'alni minal-mutawakkileen 'alayk"
+    },
+    {
+        "id": 17,
+        "arabic": "سُبْحَانَ ذِي الْمُلْكِ وَالْمَلَكُوتِ",
+        "transliteration": "Subhana dhi al-mulk wal-malakoot"
+    },
+    {
+        "id": 18,
+        "arabic": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+        "transliteration": "Allahumma ajirni min an-nar"
+    },
+    {
+        "id": 19,
+        "arabic": "اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
+        "transliteration": "Allahumma inni thalamtu nafsi faghfir li"
+    },
+    {
+        "id": 20,
+        "arabic": "يَا ذَا الْجَلَالِ وَالإِكْرَامِ",
+        "transliteration": "Ya dhal-jalali wal-ikram"
+    },
+    {
+        "id": 21,
+        "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ، سُبْحَانَ اللَّهِ الْعَظِيمِ",
+        "transliteration": "SubhanAllahi wa bihamdihi, SubhanAllah al-Azeem"
+    },
+    {
+        "id": 22,
+        "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        "transliteration": "Bismillahi alladhi la yadurru ma'a ismihi shay'un fil-ardi wa la fis-sama'i wa huwa as-sami'ul 'aleem"
+    },
+    {
+        "id": 23,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ الْكَسَلِ وَالْهَرَمِ وَالْمَأْثَمِ وَالْمَغْرَمِ",
+        "transliteration": "Allahumma inni a'udhu bika minal kasali wal harami wal ma'thami wal maghram"
+    },
+    {
+        "id": 24,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ النَّارِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ",
+        "transliteration": "Allahumma inni a'udhu bika min 'adhabil qabri wa min 'adhabin-nari wa min fitnatil mahya wal-mamat wa min sharri fitnatil maseehid-dajjal"
+    },
+    {
+        "id": 25,
+        "arabic": "اللَّهُمَّ اغْفِرْ لِي وَارْحَمْنِي وَاهْدِنِي وَعَافِنِي وَارْزُقْنِي",
+        "transliteration": "Allahumma ighfir li warhamni wa-hdini wa-'afini warzuqni"
+    },
+    {
+        "id": 26,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ وَأَعُوذُ بِكَ مِنَ الْغَلَبَةِ وَالْدَّيْنِ وَالْقَهْرِ الرِّجَالِ",
+        "transliteration": "Allahumma inni a'udhu bika minal jubni wal bukhli wa a'udhu bika min ghalabatid-dayni wa qahrir-rijal"
+    },
+    {
+        "id": 27,
+        "arabic": "اللَّهُمَّ أَصْلِحْ لِي شَأْنِي كُلَّهُ وَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+        "transliteration": "Allahumma aslih li sha'ni kullahu wa la takilni ila nafsi tarfata 'aynin"
+    },
+    {
+        "id": 28,
+        "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+        "transliteration": "Rabbi ighfir li wa tub 'alayya innaka anta at-tawwabu ar-raheem"
+    },
+    {
+        "id": 29,
+        "arabic": "اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالإِكْرَامِ",
+        "transliteration": "Allahumma anta as-salam wa minka as-salam tabarakta ya dhal-jalali wal-ikram"
+    },
+    {
+        "id": 30,
+        "arabic": "سُبْحَانَ رَبِّيَ الْعَظِيمِ وَبِحَمْدِهِ",
+        "transliteration": "Subhana rabbi al-azeemi wa bihamdihi"
+    },
+    {
+        "id": 31,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْهُدَى وَالتُّقَى وَالْعَفَافَ وَالْغِنَى",
+        "transliteration": "Allahumma inni as'aluka al-huda wa at-tuqa wa al-'afafa wa al-ghina"
+    },
+    {
+        "id": 32,
+        "arabic": "رَبِّ اغْفِرْ وَارْحَمْ وَتَجَاوَزْ عَمَّا تَعْلَمُ إِنَّكَ أَنْتَ الْأَعَزُّ الْأَكْرَمُ",
+        "transliteration": "Rabbi ighfir warham watajawaz 'amma ta'lam innaka anta al-azzu al-akram"
+    },
+    {
+        "id": 33,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْقُرْآنِ الَّذِينَ هُمْ أَهْلُكَ وَخَاصَّتُكَ",
+        "transliteration": "Allahumma aj'alni min ahlil-Qur'an alladheena hum ahluka wa khasatuka"
+    },
+    {
+        "id": 34,
+        "arabic": "اللَّهُمَّ اجْعَلْ نُورِي فِي قَلْبِي وَنُورِي فِي سَمْعِي وَنُورِي فِي بَصَرِي",
+        "transliteration": "Allahumma aj'al noori fi qalbi wa noori fi sam'i wa noori fi basari"
+    },
+    {
+        "id": 35,
+        "arabic": "اللَّهُمَّ زَيِّنَّا بِزِينَةِ الْإِيمَانِ وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ",
+        "transliteration": "Allahumma zayinna bi-zeenatil-eemaan waj'alna hudatan muhtadeen"
+    },
+    {
+        "id": 36,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْمًا نَافِعًا وَرِزْقًا طَيِّبًا وَعَمَلًا مُتَقَبَّلًا",
+        "transliteration": "Allahumma inni as'aluka 'ilman naafi'an wa rizqan tayyiban wa 'amalan mutaqabbalan"
+    },
+    {
+        "id": 37,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي فِي قُرَّةِ عَيْنِ قَلْبِي وَجَعَلْنِي فِي جَنَّةِ نَعِيمِكَ",
+        "transliteration": "Allahumma aj'alni fi qurrati ayni qalbi waj'alni fi jannati na'imik"
+    },
+    {
+        "id": 38,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ حُبَّكَ وَحُبَّ مَنْ يُحِبُّكَ وَحُبَّ كُلِّ عَمَلٍ يُقَرِّبُنِي إِلَى حُبِّكَ",
+        "transliteration": "Allahumma inni as'aluka hubbaka wa hubba man yuhibbuka wa hubba kulli 'amalin yuqarribuni ila hubbik"
+    },
+    {
+        "id": 39,
+        "arabic": "اللَّهُمَّ ارْزُقْنِي حُبَّكَ وَحُبَّ مَنْ يُحِبُّكَ وَحُبَّ كُلِّ عَمَلٍ يُقَرِّبُنِي إِلَى حُبِّكَ",
+        "transliteration": "Allahumma arzuqni hubbaka wa hubba man yuhibbuka wa hubba kulli 'amalin yuqarribuni ila hubbik"
+    },
+    {
+        "id": 40,
+        "arabic": "اللَّهُمَّ أَسْلِمْتُ نَفْسِي إِلَيْكَ وَفَوَّضْتُ أَمْرِي إِلَيْكَ",
+        "transliteration": "Allahumma aslamtu nafsi ilayk wa fawwaztu amri ilayk"
+    },
+    {
+        "id": 41,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُحْسِنِينَ",
+        "transliteration": "Allahumma aj'alni minal-muhsineen"
+    },
+    {
+        "id": 42,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّابِرِينَ",
+        "transliteration": "Allahumma aj'alni min as-sabireen"
+    },
+    {
+        "id": 43,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ",
+        "transliteration": "Allahumma aj'alni min at-tawwabeen"
+    },
+    {
+        "id": 44,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْإِيمَانَ",
+        "transliteration": "Allahumma inni as'aluka al-eemaan"
+    },
+    {
+        "id": 45,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ التَّقْوَى",
+        "transliteration": "Allahumma inni as'aluka at-tuqa"
+    },
+    {
+        "id": 46,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الشَّاكِرِينَ",
+        "transliteration": "Allahumma aj'alni min ash-shakireen"
+    },
+    {
+        "id": 47,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ النَّاجِينَ",
+        "transliteration": "Allahumma aj'alni min an-najeen"
+    },
+    {
+        "id": 48,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُؤْمِنِينَ",
+        "transliteration": "Allahumma aj'alni min al-mu'mineen"
+    },
+    {
+        "id": 49,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْفِرْدَوْسَ الْأَعْلَى مِنَ الْجَنَّةِ",
+        "transliteration": "Allahumma inni as'aluka al-firdaws al-a'la min al-jannah"
+    },
+    {
+        "id": 50,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُؤْمِنِينَ الْمُوَقِنِينَ",
+        "transliteration": "Allahumma aj'alni min al-mu'mineen al-muqineen"
+    },
+    {
+        "id": 51,
+        "arabic": "اللَّهُمَّ أَجِرْنِي مِنْ نَارِ جَهَنَّمَ",
+        "transliteration": "Allahumma ajirni min nar Jahannam"
+    },
+    {
+        "id": 52,
+        "arabic": "رَبِّ اجْعَلْنِي مِنَ المُتَّقِينَ",
+        "transliteration": "Rabbi aj'alni min al-muttaqeen"
+    },
+    {
+        "id": 53,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ النَّارِ",
+        "transliteration": "Allahumma inni a'udhu bika min 'adhabin-nar"
+    },
+    {
+        "id": 54,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْخَيْرِ",
+        "transliteration": "Allahumma aj'alni min ahl al-khair"
+    },
+    {
+        "id": 55,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ",
+        "transliteration": "Allahumma inni as'aluka min fadlik"
+    },
+    {
+        "id": 56,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي",
+        "transliteration": "Allahumma inni a'udhu bika min sharri nafsi"
+    },
+    {
+        "id": 57,
+        "arabic": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي",
+        "transliteration": "Allahumma ighfir li dhanbi"
+    },
+    {
+        "id": 58,
+        "arabic": "رَبِّ اجْعَلْنِي مِنَ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ",
+        "transliteration": "Rabbi aj'alni min alladhina yastami'una al-qawl"
+    },
+    {
+        "id": 59,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَتْقَاكَ",
+        "transliteration": "Allahumma aj'alni min atqaak"
+    },
+    {
+        "id": 60,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الطَّاعَةِ",
+        "transliteration": "Allahumma aj'alni min ahl at-ta'ah"
+    },
+    {
+        "id": 61,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْفِرْدَوْسِ",
+        "transliteration": "Allahumma aj'alni min ahl al-firdaws"
+    },
+    {
+        "id": 62,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْإِيمَانِ",
+        "transliteration": "Allahumma aj'alni min ahl al-eeman"
+    },
+    {
+        "id": 63,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْقُرْآنِ",
+        "transliteration": "Allahumma aj'alni min ahl al-Qur'an"
+    },
+    {
+        "id": 64,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الرَّضَا",
+        "transliteration": "Allahumma aj'alni min ahl ar-rida"
+    },
+    {
+        "id": 65,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَهْلِ الْإِخْلَاصِ",
+        "transliteration": "Allahumma aj'alni min ahl al-ikhlas"
+    },
+    {
+        "id": 66,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ المُتَّقِينَ",
+        "transliteration": "Allahumma aj'alni min al-muttaqeen"
+    },
+    {
+        "id": 67,
+        "arabic": "رَبِّ اجْعَلْنِي مِنَ الْمُتَوَكِّلِينَ عَلَيْكَ",
+        "transliteration": "Rabbi aj'alni min al-mutawakkileen 'alayk"
+    },
+    {
+        "id": 68,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الشَّاكِرِينَ",
+        "transliteration": "Allahumma aj'alni min ash-shakireen"
+    },
+    {
+        "id": 69,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ",
+        "transliteration": "Allahumma aj'alni min at-tawwabeen"
+    },
+    {
+        "id": 70,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُطَهَّرِينَ",
+        "transliteration": "Allahumma aj'alni min al-mutatahireen"
+    },
+    {
+        "id": 71,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ",
+        "transliteration": "Allahumma inni a'udhu bika min zawali ni'matik"
+    },
+    {
+        "id": 72,
+        "arabic": "اللَّهُمَّ بَارِكْ لِي فِي مَا أَعْطَيْتَ",
+        "transliteration": "Allahumma barik li fima a'tayt"
+    },
+    {
+        "id": 73,
+        "arabic": "اللَّهُمَّ اغْفِرْ لِي وَلِوَالِدَيَّ",
+        "transliteration": "Allahumma ighfir li waliwalidayya"
+    },
+    {
+        "id": 74,
+        "arabic": "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلَاةِ وَمِنْ ذُرِّيَّتِي",
+        "transliteration": "Rabbi aj'alni muqima as-salati wa min dhurriyati"
+    },
+    {
+        "id": 75,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ النَّاجِينَ يَوْمَ الْقِيَامَةِ",
+        "transliteration": "Allahumma aj'alni min an-najeen yawma al-qiyamah"
+    },
+    {
+        "id": 76,
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ",
+        "transliteration": "Allahumma inni a'udhu bika min sharri ma 'amilt"
+    },
+    {
+        "id": 77,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُحْسِنِينَ",
+        "transliteration": "Allahumma aj'alni minal-muhsineen"
+    },
+    {
+        "id": 78,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ",
+        "transliteration": "Allahumma inni as'aluka al-'afiyah"
+    },
+    {
+        "id": 79,
+        "arabic": "اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ",
+        "transliteration": "Allahumma a'inni 'ala dhikrika wa shukrika"
+    },
+    {
+        "id": 80,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّائِبِينَ",
+        "transliteration": "Allahumma aj'alni min at-ta'ibeen"
+    },
+    {
+        "id": 81,
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ رَحْمَتَكَ",
+        "transliteration": "Allahumma inni as'aluka rahmatak"
+    },
+    {
+        "id": 82,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الَّذِينَ يَسْتَمِعُونَ الْقَوْلَ",
+        "transliteration": "Allahumma aj'alni min alladhina yastami'una al-qawl"
+    },
+    {
+        "id": 83,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْخَاشِعِينَ",
+        "transliteration": "Allahumma aj'alni min al-khashi'een"
+    },
+    {
+        "id": 84,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَوَاضِعِينَ",
+        "transliteration": "Allahumma aj'alni minal-mutawadi'een"
+    },
+    {
+        "id": 85,
+        "arabic": "اللَّهُمَّ أَعِنِّي عَلَى نَفْسِي",
+        "transliteration": "Allahumma a'inni 'ala nafsi"
+    },
+    {
+        "id": 86,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُصَلِّينَ",
+        "transliteration": "Allahumma aj'alni min al-musalleen"
+    },
+    {
+        "id": 87,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُؤْمِنِينَ الصَّادِقِينَ",
+        "transliteration": "Allahumma aj'alni min al-mu'mineen as-sadiqeen"
+    },
+    {
+        "id": 88,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّالِحِينَ",
+        "transliteration": "Allahumma aj'alni min as-saliheen"
+    },
+    {
+        "id": 89,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الرَّاشِدِينَ",
+        "transliteration": "Allahumma aj'alni min ar-rashideen"
+    },
+    {
+        "id": 90,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُقِيمِينَ لِلصَّلَاةِ",
+        "transliteration": "Allahumma aj'alni min al-muqimeen lis-salat"
+    },
+    {
+        "id": 91,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَزَكِّينَ",
+        "transliteration": "Allahumma aj'alni min al-mutazakeen"
+    },
+    {
+        "id": 92,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُحْسِنِينَ",
+        "transliteration": "Allahumma aj'alni minal-muhsineen"
+    },
+    {
+        "id": 93,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الَّذِينَ يَتَّبِعُونَ الْقُرْآنَ",
+        "transliteration": "Allahumma aj'alni min alladhina yattabi'una al-Qur'an"
+    },
+    {
+        "id": 94,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّادِقِينَ",
+        "transliteration": "Allahumma aj'alni min as-sadiqeen"
+    },
+    {
+        "id": 95,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَكَلِّمِينَ بِالْحَقِّ",
+        "transliteration": "Allahumma aj'alni min al-mutakallimeen bil-haqq"
+    },
+    {
+        "id": 96,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الصَّابِرِينَ وَالشَّاكِرِينَ",
+        "transliteration": "Allahumma aj'alni min as-sabireen wa ash-shakireen"
+    },
+    {
+        "id": 97,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَالْمُتَطَهِّرِينَ",
+        "transliteration": "Allahumma aj'alni min at-tawwabeen wal-mutatahireen"
+    },
+    {
+        "id": 98,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُتَّقِينَ",
+        "transliteration": "Allahumma aj'alni min al-muttaqeen"
+    },
+    {
+        "id": 99,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الْمُؤْمِنِينَ الْمُحْسِنِينَ",
+        "transliteration": "Allahumma aj'alni min al-mu'mineen al-muhsineen"
+    },
+    {
+        "id": 100,
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ",
+        "transliteration": "Allahumma aj'alni min alladhina ya'maloon as-salihat"
+    }
+]
