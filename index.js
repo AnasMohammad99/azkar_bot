@@ -14,6 +14,7 @@ const bot = new TelegramBot(token, { polling: true });
 const jsonFilePath = path.join(process.cwd(), "azkar.json");
 
 let chatId = null;
+let chatUsername = null;
 let task = null;
 
 async function loadRandomZikr() {
@@ -49,7 +50,8 @@ bot.onText(/\/start/, (msg) => {
   if (msg.text !== "/start") return;
 
   chatId = msg.chat.id;
-  bot.sendMessage(chatId, "You will receive a Zikr every minute.");
+  chatUsername = msg.chat.username;
+  bot.sendMessage(chatId, "You will receive a Zikr every 15 minute.");
 
   // Schedule the cron job to run the function every minute
   task = cron.schedule("*/15 * * * *", async () => {
@@ -60,7 +62,7 @@ bot.onText(/\/start/, (msg) => {
       }
     }
   });
-  console.log("Cron job started.");
+  console.log(`Cron job started. for id ${chatUsername}`);
 });
 
 // Handle the /stop command to stop the cron job
